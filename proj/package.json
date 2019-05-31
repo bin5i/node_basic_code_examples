@@ -1,0 +1,19 @@
+{
+  "name": "projxxxxon",
+  "version": "1.0.0",
+  "description": "a test project of npm.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "bin123456",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "underscore": "^1.9.1"
+  }
+}

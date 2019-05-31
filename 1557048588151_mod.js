@@ -1,0 +1,1 @@
+console.log('in mod.js file: xxx => '+xxx);
